@@ -198,14 +198,6 @@
       "id": "lovedan-net",
       "isAdult": false
     },
-    "zy.jinchancaiji.com": {
-      "_comment": "无搜索结果",
-      "name": "金蝉影视",
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
-      "detail": "https://zy.jinchancaiji.com",
-      "id": "zy-jinchancaiji-com",
-      "isAdult": false
-    },
     "lzizy.net": {
       "_comment": "备用",
       "name": "量子影视",
