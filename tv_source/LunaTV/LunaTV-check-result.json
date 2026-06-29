@@ -1,12 +1,12 @@
 {
-  "date": "2026/06/29 07:07",
+  "date": "2026/06/30 07:01",
   "keyword": "斗罗大陆",
   "adultKeyword": "三上悠",
   "useProxy": true,
   "proxyUrl": "https://kuayu.hellow.eu.org",
-  "duration": "4.3s",
+  "duration": "6.6s",
   "stats": {
-    "total": 73,
+    "total": 72,
     "accessible": 0,
     "searchOk": 0
   },
@@ -176,7 +176,7 @@
     {
       "id": "jinyingzy-com",
       "name": "金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "isAdult": false,
       "searchStatus": "failed",
       "searchDuration": null,
@@ -411,15 +411,6 @@
       "id": "apilsbzy1-com",
       "name": "老色逼",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "isAdult": true,
-      "searchStatus": "failed",
-      "searchDuration": null,
-      "useProxy": true
-    },
-    {
-      "id": "www-yytv4-cc",
-      "name": "优优资源",
-      "api": "https://www.yytv4.cc/api.php/provide/vod",
       "isAdult": true,
       "searchStatus": "failed",
       "searchDuration": null,
